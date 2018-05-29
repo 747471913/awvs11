@@ -1,2 +1,4 @@
 # awvs11
 采用awvs11api对百度关键词获得网站批量扫描
+其中apikey是你自己的
+ul为你的awvs网站url
